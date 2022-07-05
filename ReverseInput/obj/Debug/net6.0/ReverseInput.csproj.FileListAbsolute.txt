@@ -1,0 +1,15 @@
+C:\Users\vinnn\source\repos\ReverseInput\ReverseInput\bin\Debug\net6.0\ReverseInput.exe
+C:\Users\vinnn\source\repos\ReverseInput\ReverseInput\bin\Debug\net6.0\ReverseInput.deps.json
+C:\Users\vinnn\source\repos\ReverseInput\ReverseInput\bin\Debug\net6.0\ReverseInput.runtimeconfig.json
+C:\Users\vinnn\source\repos\ReverseInput\ReverseInput\bin\Debug\net6.0\ReverseInput.dll
+C:\Users\vinnn\source\repos\ReverseInput\ReverseInput\bin\Debug\net6.0\ReverseInput.pdb
+C:\Users\vinnn\source\repos\ReverseInput\ReverseInput\obj\Debug\net6.0\ReverseInput.csproj.AssemblyReference.cache
+C:\Users\vinnn\source\repos\ReverseInput\ReverseInput\obj\Debug\net6.0\ReverseInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinnn\source\repos\ReverseInput\ReverseInput\obj\Debug\net6.0\ReverseInput.AssemblyInfoInputs.cache
+C:\Users\vinnn\source\repos\ReverseInput\ReverseInput\obj\Debug\net6.0\ReverseInput.AssemblyInfo.cs
+C:\Users\vinnn\source\repos\ReverseInput\ReverseInput\obj\Debug\net6.0\ReverseInput.csproj.CoreCompileInputs.cache
+C:\Users\vinnn\source\repos\ReverseInput\ReverseInput\obj\Debug\net6.0\ReverseInput.dll
+C:\Users\vinnn\source\repos\ReverseInput\ReverseInput\obj\Debug\net6.0\refint\ReverseInput.dll
+C:\Users\vinnn\source\repos\ReverseInput\ReverseInput\obj\Debug\net6.0\ReverseInput.pdb
+C:\Users\vinnn\source\repos\ReverseInput\ReverseInput\obj\Debug\net6.0\ReverseInput.genruntimeconfig.cache
+C:\Users\vinnn\source\repos\ReverseInput\ReverseInput\obj\Debug\net6.0\ref\ReverseInput.dll
